@@ -1,4 +1,4 @@
-package com.lin.controller;
+package com.zhang.controller;
 
 import org.springframework.stereotype.Controller;
 

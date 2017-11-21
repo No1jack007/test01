@@ -1,9 +1,9 @@
-package com.lin.domain;  
+package com.zhang.domain;
   
 /** 
  * User映射类 
  *  
- * @author linbingwen 
+ * @author zhangbingwen
  * @time 2015.5.15 
  */  
 public class User {  

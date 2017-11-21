@@ -1,4 +1,4 @@
-package com.lin.controller;  
+package com.zhang.controller;
   
 import javax.annotation.Resource;  
   
@@ -6,13 +6,13 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;  
 import org.springframework.web.servlet.ModelAndView;  
   
-import com.lin.domain.User;  
-import com.lin.service.UserService;  
+import com.zhang.domain.User;
+import com.zhang.service.UserService;
   
 /** 
  * 功能概要：UserController 
  *  
- * @author linbingwen 
+ * @author zhangbingwen
  * @since  2015年9月28日  
  */  
 @Controller

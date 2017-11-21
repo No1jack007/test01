@@ -4,7 +4,7 @@
 <configuration>
     <!-- 命名空间 -->
     <typeAliases>
-        <typeAlias alias="User" type="com.lin.domain.User"/>
+        <typeAlias alias="User" type="com.zhang.domain.User"/>
     </typeAliases>
     <!-- 映射map -->
     <mappers>

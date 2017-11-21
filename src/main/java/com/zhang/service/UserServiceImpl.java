@@ -1,15 +1,15 @@
-package com.lin.service;  
+package com.zhang.service;
   
 import org.springframework.beans.factory.annotation.Autowired;  
 import org.springframework.stereotype.Service;  
   
-import com.lin.dao.UserDao;  
-import com.lin.domain.User;  
+import com.zhang.dao.UserDao;
+import com.zhang.domain.User;
   
 /** 
  * 功能概要：UserService实现类 
  *  
- * @author linbingwen 
+ * @author zhangbingwen
  * @since  2015年9月28日  
  */  
 @Service  

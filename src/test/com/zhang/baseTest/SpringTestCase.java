@@ -1,4 +1,4 @@
-package com.lin.baseTest;  
+package com.zhang.baseTest;
   
 import org.junit.runner.RunWith;  
 import org.slf4j.Logger;  
@@ -10,7 +10,7 @@ import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 /** 
  * 功能概要： 
  *  
- * @author linbingwen 
+ * @author zhangbingwen
  * @since  2015年9月28日  
  */  
 //指定bean注入的配置文件  

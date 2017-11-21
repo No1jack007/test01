@@ -1,19 +1,19 @@
-package com.lin.dao;
+package com.zhang.dao;
 
 
-import com.lin.domain.User;
+import com.zhang.domain.User;
 
 /**
  * 功能概要：User的DAO类
  *
- * @author linbingwen
+ * @author zhangbingwen
  * @since 2015年9月28日
  */
 public interface UserDao {
     /**
      * @param userId
      * @return
-     * @author linbingwen
+     * @author zhangbingwen
      * @since 2015年9月28日
      */
     public User selectUserById(Integer userId);
